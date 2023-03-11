@@ -24,6 +24,4 @@
     <img src="https://komarev.com/ghpvc/?username=JeewHiddala">
 </a>
 
-![](https://komarev.com/ghpvc/?username=JeewHiddala&color=lightgrey&style=plastic)
-
 <!-- [![@jeewhiddala's Holopin board](https://holopin.me/jeewhiddala)](https://holopin.io/@jeewhiddala) -->
