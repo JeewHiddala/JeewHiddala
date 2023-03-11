@@ -23,8 +23,5 @@
 <a href="https://github.com/JeewHiddala/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=JeewHiddala">
 </a>
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=JeewHiddala&label=Profile%20Views&color=6&icon=0&pretty=true" />
-</a>
 
 <!-- [![@jeewhiddala's Holopin board](https://holopin.me/jeewhiddala)](https://holopin.io/@jeewhiddala) -->
