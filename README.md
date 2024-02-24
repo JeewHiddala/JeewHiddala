@@ -25,5 +25,6 @@
 </a>
 
 ## 💰 You can help me via BuyMeACoffee
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)]([https://www.buymeacoffee.com/jeewhiddala])
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/jeewhiddala)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/jeewhiddala)
 <!-- [![@jeewhiddala's Holopin board](https://holopin.me/jeewhiddala)](https://holopin.io/@jeewhiddala) -->
