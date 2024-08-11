@@ -17,8 +17,8 @@
 - ⚡ Fun fact: ... -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeewHiddala&layout=compact)](https://github.com/JeewHiddala/github-readme-stats) -->
-<a href="https://github.com/JeewHiddala/github-readme-stats"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=JeewHiddala&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/JeewHiddala/github-readme-stats"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeewHiddala&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/JeewHiddala/github-readme-stats"><img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=JeewHiddala&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&cache_seconds=1800" /></a>
+<a href="https://github.com/JeewHiddala/github-readme-stats"><img alt="My Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeewHiddala&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117&cache_seconds=1800" /></a>
 
 <a href="https://github.com/JeewHiddala/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=JeewHiddala">
