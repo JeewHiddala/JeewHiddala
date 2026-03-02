@@ -5,7 +5,7 @@
 
 <!-- Here are some ideas to get you started: -->
 
-- 👋 Hi ! I’m Jeewantha Hiddalarachchi.
+- 👋 Hi ! I’m Jeewantha Hidallaarachchi.
 <!-- - 🔭 I’m currently working on Kodez
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
